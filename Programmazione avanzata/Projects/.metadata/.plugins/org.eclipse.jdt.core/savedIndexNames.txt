@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\munci\Desktop\Università\Programmazione avanzata\Projects\.metadata\.plugins\org.eclipse.jdt.core
+2235003701.index
+1662920668.index
+2842528100.index
